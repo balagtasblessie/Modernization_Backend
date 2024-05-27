@@ -1,0 +1,6 @@
+@ClockDB_Service_HostAddress = http://localhost:5058
+
+GET {{ClockDB_Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

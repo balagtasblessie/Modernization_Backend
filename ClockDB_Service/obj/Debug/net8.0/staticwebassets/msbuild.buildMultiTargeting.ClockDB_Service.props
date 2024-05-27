@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ClockDB_Service.props" />
+</Project>

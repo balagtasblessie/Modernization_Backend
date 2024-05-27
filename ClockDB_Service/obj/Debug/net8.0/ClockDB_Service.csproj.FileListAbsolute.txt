@@ -1,0 +1,131 @@
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\bin\Debug\net8.0\appsettings.Development.json
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\bin\Debug\net8.0\appsettings.json
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.exe
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.deps.json
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.runtimeconfig.json
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.dll
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.pdb
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.csproj.AssemblyReference.cache
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.AssemblyInfoInputs.cache
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.AssemblyInfo.cs
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.csproj.CoreCompileInputs.cache
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.MvcApplicationPartsAssemblyInfo.cs
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.MvcApplicationPartsAssemblyInfo.cache
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.sourcelink.json
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\staticwebassets.build.json
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\staticwebassets.development.json
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.ClockDB_Service.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.build.ClockDB_Service.props
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClockDB_Service.props
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClockDB_Service.props
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\scopedcss\bundle\ClockDB_Service.styles.css
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.csproj.CopyComplete
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.dll
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\refint\ClockDB_Service.dll
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.pdb
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.genruntimeconfig.cache
+D:\Modernization\Modernization_Backend\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ref\ClockDB_Service.dll
+D:\Modernization\backend_modernization\ClockDB_Service\bin\Debug\net8.0\appsettings.Development.json
+D:\Modernization\backend_modernization\ClockDB_Service\bin\Debug\net8.0\appsettings.json
+D:\Modernization\backend_modernization\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.exe
+D:\Modernization\backend_modernization\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.deps.json
+D:\Modernization\backend_modernization\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.runtimeconfig.json
+D:\Modernization\backend_modernization\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.dll
+D:\Modernization\backend_modernization\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.pdb
+D:\Modernization\backend_modernization\ClockDB_Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Modernization\backend_modernization\ClockDB_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Modernization\backend_modernization\ClockDB_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Modernization\backend_modernization\ClockDB_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.csproj.AssemblyReference.cache
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.AssemblyInfoInputs.cache
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.AssemblyInfo.cs
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.csproj.CoreCompileInputs.cache
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.MvcApplicationPartsAssemblyInfo.cs
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.MvcApplicationPartsAssemblyInfo.cache
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.sourcelink.json
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\staticwebassets.build.json
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\staticwebassets.development.json
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.ClockDB_Service.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.build.ClockDB_Service.props
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClockDB_Service.props
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClockDB_Service.props
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\scopedcss\bundle\ClockDB_Service.styles.css
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.csproj.CopyComplete
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.dll
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\refint\ClockDB_Service.dll
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.pdb
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.genruntimeconfig.cache
+D:\Modernization\backend_modernization\ClockDB_Service\obj\Debug\net8.0\ref\ClockDB_Service.dll
+D:\Modernization\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\appsettings.Development.json
+D:\Modernization\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\appsettings.json
+D:\Modernization\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.exe
+D:\Modernization\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.deps.json
+D:\Modernization\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.runtimeconfig.json
+D:\Modernization\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.dll
+D:\Modernization\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.pdb
+D:\Modernization\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Modernization\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Modernization\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Modernization\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.csproj.AssemblyReference.cache
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.AssemblyInfoInputs.cache
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.AssemblyInfo.cs
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.csproj.CoreCompileInputs.cache
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.MvcApplicationPartsAssemblyInfo.cs
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.MvcApplicationPartsAssemblyInfo.cache
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\staticwebassets.build.json
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\staticwebassets.development.json
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.ClockDB_Service.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.build.ClockDB_Service.props
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClockDB_Service.props
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClockDB_Service.props
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\scopedcss\bundle\ClockDB_Service.styles.css
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.csproj.CopyComplete
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.dll
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\refint\ClockDB_Service.dll
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.pdb
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.genruntimeconfig.cache
+D:\Modernization\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ref\ClockDB_Service.dll
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\appsettings.json
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.exe
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.deps.json
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.runtimeconfig.json
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.dll
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\ClockDB_Service.pdb
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.csproj.AssemblyReference.cache
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.AssemblyInfoInputs.cache
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.AssemblyInfo.cs
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.csproj.CoreCompileInputs.cache
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.sourcelink.json
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.ClockDB_Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.build.ClockDB_Service.props
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClockDB_Service.props
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClockDB_Service.props
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\scopedcss\bundle\ClockDB_Service.styles.css
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.csproj.CopyComplete
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.dll
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\refint\ClockDB_Service.dll
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.pdb
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ClockDB_Service.genruntimeconfig.cache
+C:\Users\blessie.balagtas\Desktop\Modernization Backup\Modernization_Backend\ClockDB_Service\obj\Debug\net8.0\ref\ClockDB_Service.dll

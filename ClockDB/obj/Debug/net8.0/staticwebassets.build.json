@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "A4rPfUuRsr78lzaQju/NhKnnN68GqzgyTPD4yKBUwnQ=",
+  "Source": "ClockDB",
+  "BasePath": "_content/ClockDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Modernization\\Modernization_Backend\\ClockDB_Service\\ClockDB_Service.csproj",
+      "Version": 2,
+      "Source": "ClockDB_Service",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

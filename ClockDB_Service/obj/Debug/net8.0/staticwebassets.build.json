@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yqYuZxCzKr3zLarn/pk0uyGkNbfQWkKuQs0QNmfDF+w=",
+  "Source": "ClockDB_Service",
+  "BasePath": "_content/ClockDB_Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
